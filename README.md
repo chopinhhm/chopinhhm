@@ -12,6 +12,15 @@
 [![Email](https://img.shields.io/badge/📧_Email-1716496338%40qq.com-FF6B6B?style=flat-square&logo=Gmail&logoColor=white)](mailto:1716496338@qq.com)
 [![Gitee](https://img.shields.io/badge/💻_Gitee-C71D23?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/hhmchopin)
 
+<br>
+
+<!-- 贪吃蛇动画 - 从 output 分支读取 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chopinhhm/chopinhhm/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chopinhhm/chopinhhm/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chopinhhm/chopinhhm/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
