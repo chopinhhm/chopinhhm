@@ -48,11 +48,23 @@
 
 ---
 
+## 🔧 Open Source
+
+### [spring-ai-starter](https://github.com/chopinhhm/spring-ai-starter) — Spring AI 快速启动模板
+
+> 内置 RAG、多智能体编排、SSE 流式输出、双记忆体系，开箱即用
+
+`Spring AI` `RAG` `Multi-Agent` `SSE` `Docker`
+
+<img src="https://img.shields.io/badge/MIT-License-green?style=flat-square"/> <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+
+---
+
 ## 📂 Projects
 
 <div align="center">
 
-### 🏥 [Smart Diagnosis Platform](https://github.com/chopinhhm/smart-diagnosis-platform)
+### 🏥 [smart-diagnosis-platform](https://github.com/chopinhhm/smart-diagnosis-platform)
 > `Spring Cloud Alibaba` `Spring AI` `SSE` `Milvus` `Redis` `RabbitMQ` `Sentinel`
 
 智慧医疗问诊平台 — 微服务架构 + AI 大模型驱动的实时流式问诊系统
@@ -66,7 +78,7 @@
 
 <div align="center">
 
-### 🤖 [Multi Agent Clinical](https://github.com/chopinhhm/multi-agent-clinical)
+### 🤖 [multi-agent-clinical](https://github.com/chopinhhm/multi-agent-clinical)
 > `Spring AI` `Multi-Agent` `Spring WebFlux` `Milvus` `RAG`
 
 多智能体临床资料汇总与文献参谋系统 — Agent 协作驱动
@@ -80,7 +92,7 @@
 
 <div align="center">
 
-### 🌐 [Internet Hospital](https://github.com/chopinhhm/internet-hospital)
+### 🌐 [internet-hospital](https://github.com/chopinhhm/internet-hospital)
 > `Spring WebSocket` `Redis` `MySQL` `RabbitMQ` `JWT`
 
 互联网医院线上问诊系统 — 医患实时通讯平台
@@ -94,7 +106,7 @@
 
 <div align="center">
 
-### 📋 [Hospital Registration](https://github.com/chopinhhm/hospital-registration)
+### 📋 [hospital-registration](https://github.com/chopinhhm/hospital-registration)
 > `Spring Cloud Alibaba` `Redis Sentinel` `RabbitMQ` `Lua` `Sentinel`
 
 互联网医院挂号系统 — 高并发分布式挂号
