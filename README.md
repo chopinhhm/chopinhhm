@@ -1,191 +1,77 @@
 <div align="center">
 
-<!-- 头像 -->
-<a href="https://github.com/chopinhhm">
-  <img src="https://avatars.githubusercontent.com/u/174554404?v=4" width="120" height="120" style="border-radius:50%; border:3px solid #58A6FF;" />
-</a>
+# 👋 黄浩茗 | HaoMing Huang
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&lines=%E9%BB%84%E6%B5%A9%E8%8C%97;HaoMing+Huang;Java+Backend+Developer" alt="Typing SVG" />
-</h1>
+### 🎓 重庆邮电大学 · 软件工程 | ☕ Java Backend | 云原生后端开发者
 
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=C9D1D9&center=true&vCenter=true&width=700&lines=🎓+%E9%87%8D%E5%BA%86%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6+%C2%B7+%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B+%7C+%E2%98%95+Java+Backend+%7C+%E4%BA%91%E5%8E%9F%E7%94%9F+%E5%90%8E%E7%AB%AF+%E5%BC%80%E5%8F%91%E8%80%85;Building+AI-Powered+Healthcare+Systems+%F0%9F%8F%A5" alt="Subtitle" />
-</h3>
+**Building AI-Powered Healthcare Systems** 🏥
 
-<div>
-  <a href="http://134.175.176.71:8080"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Personal_Site-58A6FF?style=for-the-badge&logo=GoogleChrome&logoColor=white&labelColor=0D1117"/></a>
-  <a href="mailto:1716496338@qq.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7_Email_Me-FF6B6B?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=0D1117"/></a>
-  <a href="https://gitee.com/hhmchopin"><img src="https://img.shields.io/badge/%F0%9F%92%BB_Gitee-C71D23?style=for-the-badge&logo=Gitee&logoColor=white&labelColor=0D1117"/></a>
-  <a href="https://github.com/chopinhhm"><img src="https://img.shields.io/badge/%F0%9F%94%A5_Hireable-Yes-3FB950?style=for-the-badge&logoColor=white&labelColor=0D1117"/></a>
-</div>
+---
 
-<br>
-
-<!-- 访问量 -->
-<img src="https://komarev.com/ghpvc/?username=chopinhhm&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" />
-
-<br><br>
-
-<!-- 贪吃蛇 - 使用稳定的服务 -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+[![个人网站](https://img.shields.io/badge/🌐_个人网站-58A6FF?style=flat-square&logo=GoogleChrome&logoColor=white)](http://134.175.176.71:8080)
+[![Email](https://img.shields.io/badge/📧_Email-1716496338%40qq.com-FF6B6B?style=flat-square&logo=Gmail&logoColor=white)](mailto:1716496338@qq.com)
+[![Gitee](https://img.shields.io/badge/💻_Gitee-C71D23?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/hhmchopin)
 
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-<div align="center">
-
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=java,spring,redis,mysql,docker,rabbitmq,maven,git,linux,nginx,kubernetes&theme=dark&perline=5" />
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman,githubactions,docker,nginx,gitlab,jenkins&theme=dark&perline=5" />
-
-</div>
-
----
-
-## ⚡ Skill Matrix
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td align="center" width="40%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chopinhhm&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Languages"/>
-</td>
-<td align="center" width="60%">
-
-**Core Technologies:**
-
-`Java` · `Spring Boot` · `Spring Cloud Alibaba` · `Spring AI` · `MyBatis-Plus`  
-`Redis` · `MySQL` · `RabbitMQ` · `Docker` · `Milvus` · `Sentinel` · `Nacos`
-
-</td>
-</tr>
-</table>
-
-</div>
+```
+Java · Spring Boot · Spring Cloud Alibaba · Spring AI · MyBatis-Plus
+Redis · MySQL · RabbitMQ · Docker · Milvus · Sentinel · Nacos · WebSocket
+```
 
 ---
 
 ## 🧠 Core Competencies
 
-<table align="center">
-<tr>
-<th>🏗️ Microservices Architecture</th>
-<th>💾 Data & Storage</th>
-<th>🤖 AI Engineering</th>
-</tr>
-<tr>
-<td valign="top">
-
-- Spring Cloud Alibaba 全家桶
-- Nacos 注册/配置中心
-- Gateway 网关路由 & 过滤器
-- Sentinel 熔断降级 & 流控
-- Feign 远程调用 & 容错
+### 🏗️ Microservices Architecture
+- Spring Cloud Alibaba 全家桶 (Nacos / Gateway / Sentinel / Feign)
 - 分布式事务 & 防重设计
 - Docker 容器化 & K8s 编排
 
-</td>
-<td valign="top">
-
-- MySQL 索引优化 / MVCC
-- Redis 三级缓存架构
-- Redis 哨兵集群 & 分布式锁
-- RabbitMQ 死信队列 & 幂等消费
+### 💾 Data & Storage
+- MySQL 索引优化 / MVCC / 读写分离
+- Redis 三级缓存 / 哨兵集群 / 分布式锁
+- RabbitMQ 死信队列 / 延迟队列 / 幂等消费
 - Milvus 向量数据库检索
-- 分库分表 & 数据归档策略
 
-</td>
-<td valign="top">
-
+### 🤖 AI Engineering
 - Spring AI 大模型集成
-- RAG 检索增强生成 (Milvus)
+- RAG 检索增强生成 (Milvus + Embedding)
 - SSE 流式对话输出
-- Prompt 工程与调优
 - 多智能体编排协作
 - 医疗 AI 合规 & 敏感词过滤
-- 向量嵌入 & 相似度搜索
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## 🔥 Open Source
 
-<div align="center">
+### [spring-ai-starter](https://github.com/chopinhhm/spring-ai-starter)
+> Spring AI 快速启动模板 — 开箱即用的 RAG / 多智能体 / SSE / 双记忆体系
 
-<a href="https://github.com/chopinhhm/spring-ai-starter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chopinhhm&repo=spring-ai-starter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&description_lines_count=3" width="48%" />
-</a>
-
-</div>
+`Spring AI` `RAG` `Multi-Agent` `SSE` `Docker`
 
 ---
 
 ## 📂 Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/chopinhhm/smart-diagnosis-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chopinhhm&repo=smart-diagnosis-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&description_lines_count=4" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/chopinhhm/multi-agent-clinical">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chopinhhm&repo=multi-agent-clinical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&description_lines_count=4" />
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/chopinhhm/internet-hospital">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chopinhhm&repo=internet-hospital&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&description_lines_count=4" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/chopinhhm/hospital-registration">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chopinhhm&repo=hospital-registration&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&description_lines_count=4" />
-</a>
-</td>
-</tr>
-</table>
-
-</div>
+| 项目 | 技术栈 | 亮点 |
+|------|--------|------|
+| **[smart-diagnosis-platform](https://github.com/chopinhhm/smart-diagnosis-platform)** | Spring Cloud Alibaba · Spring AI · SSE · Milvus · Redis · RabbitMQ | 双记忆体系 · RAG知识库 · 62%缓存命中率提升 |
+| **[multi-agent-clinical](https://github.com/chopinhhm/multi-agent-clinical)** | Spring AI · Multi-Agent · WebFlux · Milvus | 多智能体解耦 · 状态机工作流 · HIS/LIS/PACS集成 |
+| **[internet-hospital](https://github.com/chopinhhm/internet-hospital)** | Spring WebSocket · Redis · MySQL · RabbitMQ | 自研聊天室 · HTTP降级 · 状态机调度 |
+| **[hospital-registration](https://github.com/chopinhhm/hospital-registration)** | Spring Cloud · Redis Sentinel · RabbitMQ · Lua | 三重分布式防重 · 全链路流量治理 |
 
 ---
 
-## 📊 Analytics Dashboard
+## 📊 GitHub Stats
 
-<div align="center">
-
-<table>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chopinhhm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true&count_private=false&custom_title=GitHub+Stats" height="180" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=chopinhhm&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&date_format=j%20M%5B%20Y%5D" height="170" />
-</td>
-<td align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chopinhhm&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8" height="170" />
-</td>
-</tr>
-</table>
-
-</div>
+- **Public Repos:** 6
+- **Languages:** Java (Primary)
+- **Focus:** Healthcare AI · Microservices · Backend Engineering
 
 ---
 
@@ -193,16 +79,10 @@
 
 ## 📫 Let's Connect
 
-<a href="mailto:1716496338@qq.com"><img src="https://img.shields.io/badge/Email-1716496338%40qq.com-FF6B6B?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="http://134.175.176.71:8080"><img src="https://img.shields.io/badge/Website-134.175.176.71:8080-58A6FF?style=flat-square&logo=GoogleChrome&logoColor=white"/></a>
-<a href="https://gitee.com/hhmchopin"><img src="https://img.shields.io/badge/Gitee-hhmchopin-C71D23?style=flat-square&logo=Gitee&logoColor=white"/></a>
+📧 [1716496338@qq.com](mailto:1716496338@qq.com) · 🌐 [134.175.176.71:8080](http://134.175.176.71:8080) · 💻 [Gitee](https://gitee.com/hhmchopin)
 
-<br><br>
+<br>
 
 <i>"Build smart systems that make a real difference."</i> 💡
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=60&section=footer" />
 
 </div>
