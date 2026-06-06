@@ -1,153 +1,227 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Hi%2C%20I%27m%20%E9%BB%84%E6%B5%A9%E8%8C%97&fontSize=40&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Spring%20Cloud%20%7C%20AI%20Applications&descSize=18&descAlignY=55&descColor=C9D1D9" />
+<!-- 3D Particle Header -->
+<img src="https://profile-readme-generator.vercel.app/api/screenshots?uid=chopinhhm&theme=dark&showActions=true&showLineNumbers=true" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Cloud+Alibaba+Microservices;Spring+AI+%2B+RAG+Applications;Building+Smart+Healthcare+Systems)](https://git.io/typing-svg)
+<br>
 
-[![个人网站](https://img.shields.io/badge/🌐_个人网站-58A6FF?style=flat-square&logo=GoogleChrome&logoColor=white)](http://134.175.176.71:8080)
-[![Email](https://img.shields.io/badge/📧_Email-1716496338%40qq.com-FF6B6B?style=flat-square&logo=Gmail&logoColor=white)](mailto:1716496338@qq.com)
-[![Gitee](https://img.shields.io/badge/💻_Gitee-C71D23?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/hhmchopin)
-[![Hireable](https://img.shields.io/badge/✅_Hireable-Yes-3FB950?style=flat-square)](https://github.com/chopinhhm)
+<a href="https://github.com/chopinhhm">
+  <img src="https://github.com/chopinhhm.png" width="120" height="120" style="border-radius:50%; border:3px solid #58A6FF; box-shadow:0 0 20px rgba(88,166,255,0.4);" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" />
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&lines=%E9%BB%84%E6%B5%A9%E8%8C%97;HaoMing+Huang;Java+Backend+Developer" alt="Typing SVG" />
+</h1>
 
-</div>
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=C9D1D9&center=true&vCenter=true&width=700&lines=🎓+%E9%87%8D%E5%BA%86%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6+%C2%B7+%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B+%7C+%E2%98%95+Java+Backend+%7C+%E4%BA%91%E5%8E%9F%E7%94%9F+%E5%90%8E%E7%AB%AF+%E5%BC%80%E5%8F%91%E8%80%85;%Building+AI-Powered+Healthcare+Systems+%F0%9F%8F%A5" alt="Subtitle" />
+</h3>
 
-<div align="center">
-
-## 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=java,spring,redis,mysql,docker,rabbitmq,git,maven,linux,nginx&theme=dark&perline=5" />
-
-<br><br>
-
-`Java` · `Spring Boot` · `Spring Cloud Alibaba` · `Spring AI` · `MyBatis-Plus` · `Redis` · `MySQL` · `RabbitMQ` · `Docker` · `Milvus` · `Sentinel` · `Nacos`
-
-</div>
-
----
-
-## 🧠 Skills
-
-<div align="center">
-
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&lineHeight=28&titleAlign=start&theme=dark&width=650&gap=6&techs=java,springboot,mysql,redis,springcloud,rabbitmq,docker,kubernetes,linux,git" />
-
+<div>
+  <a href="http://134.175.176.71:8080"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Personal_Site-58A6FF?style=for-the-badge&logo=GoogleChrome&logoColor=white&labelColor=0D1117"/></a>
+  <a href="mailto:1716496338@qq.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7_Email_Me-FF6B6B?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=0D1117"/></a>
+  <a href="https://gitee.com/hhmchopin"><img src="https://img.shields.io/badge/%F0%9F%92%BB_Gitee-C71D23?style=for-the-badge&logo=Gitee&logoColor=white&labelColor=0D1117"/></a>
+  <a href="https://github.com/chopinhhm"><img src="https://img.shields.io/badge/%F0%9F%94%A5_Hireable-Yes-3FB950?style=for-the-badge&logoColor=white&labelColor=0D1117"/></a>
 </div>
 
 <br>
 
-| 🏗️ 架构设计 | 💾 数据存储 | 🤖 AI 应用 |
-|:-----------:|:-----------:|:---------:|
-| Spring Cloud Alibaba 微服务 | MySQL 索引优化 / MVCC / 读写分离 | Spring AI 大模型集成 |
-| Nacos 注册 & 配置中心 | Redis 三级缓存 / 哨兵集群 / 分布式锁 | RAG 检索增强生成 |
-| Gateway 网关 & 路由 | RabbitMQ 死信队列 / 延迟队列 / 幂等消费 | SSE 流式传输 |
-| Sentinel 熔断降级 & 流控 | MongoDB / Milvus 向量数据库 | 向量检索 / Prompt 工程 |
-| 分布式事务 & 防重 | 消息持久化 & 生产者确认 | 多智能体编排协作 |
-| Docker 容器化部署 | 分库分表 & 历史数据归档 | 医疗 AI 合规 & 敏感词过滤 |
-
----
-
-## 🔧 Open Source
-
-### [spring-ai-starter](https://github.com/chopinhhm/spring-ai-starter) — Spring AI 快速启动模板
-
-> 内置 RAG、多智能体编排、SSE 流式输出、双记忆体系，开箱即用
-
-`Spring AI` `RAG` `Multi-Agent` `SSE` `Docker`
-
-<img src="https://img.shields.io/badge/MIT-License-green?style=flat-square"/> <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-
----
-
-## 📂 Projects
-
-<div align="center">
-
-### 🏥 [smart-diagnosis-platform](https://github.com/chopinhhm/smart-diagnosis-platform)
-> `Spring Cloud Alibaba` `Spring AI` `SSE` `Milvus` `Redis` `RabbitMQ` `Sentinel`
-
-智慧医疗问诊平台 — 微服务架构 + AI 大模型驱动的实时流式问诊系统
-
-✨ **双记忆体系** — 对话记忆 + 业务流程记忆，解决多轮对话上下文丢失
-✨ **RAG 知识库** — Milvus 向量库 + Markdown 智能分块，62% 缓存命中率提升
-✨ **流式输出** — SSE 协议 + Spring AI 实时推送
-✨ **高可用** — Sentinel 熔断 + Redis 三级缓存 + RabbitMQ 异步解耦
-
-</div>
-
-<div align="center">
-
-### 🤖 [multi-agent-clinical](https://github.com/chopinhhm/multi-agent-clinical)
-> `Spring AI` `Multi-Agent` `Spring WebFlux` `Milvus` `RAG`
-
-多智能体临床资料汇总与文献参谋系统 — Agent 协作驱动
-
-✨ **多智能体解耦** — 资料汇总 / 文献检索 / 诊断分析，独立扩容
-✨ **状态机工作流** — Spring WebFlux 自研轻量级引擎
-✨ **异构集成** — HIS / LIS / PACS 三大院内系统打通
-✨ **私有化 RAG** — 完全本地部署，数据不出院
-
-</div>
-
-<div align="center">
-
-### 🌐 [internet-hospital](https://github.com/chopinhhm/internet-hospital)
-> `Spring WebSocket` `Redis` `MySQL` `RabbitMQ` `JWT`
-
-互联网医院线上问诊系统 — 医患实时通讯平台
-
-✨ **自研聊天室** — WebSocket 深度业务耦合，多房间并发
-✨ **降级方案** — WebSocket 主协议 + HTTP 轮询兜底
-✨ **状态机调度** — 轻量级订单生命周期管理
-✨ **数据闭环** — 全量持久化，Redis 二级缓存加速
-
-</div>
-
-<div align="center">
-
-### 📋 [hospital-registration](https://github.com/chopinhhm/hospital-registration)
-> `Spring Cloud Alibaba` `Redis Sentinel` `RabbitMQ` `Lua` `Sentinel`
-
-互联网医院挂号系统 — 高并发分布式挂号
-
-✨ **三重防重** — Redis Lua 原子操作 + 唯一索引 + 状态校验
-✨ **全链路治理** — Gateway 过滤器 + Sentinel 精细化流控
-✨ **高可用缓存** — Redis 哨兵集群 + 读写分离
-✨ **异步解耦** — RabbitMQ 流量削峰 + 死信队列
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chopinhhm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true&count_private=false" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chopinhhm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=html,css" height="170"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=chopinhhm&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&date_format=j%20M%5B%20Y%5D" height="170"/>
-<img src="https://github-profile-trophy.vercel.app/?username=chopinhhm&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8" height="170"/>
-</div>
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=chopinhhm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</div>
-
----
-
-<div align="center">
-
-### 📫 Contact Me
-
-<a href="mailto:1716496338@qq.com">📧 Email</a> ·
-<a href="http://134.175.176.71:8080">🌐 Website</a> ·
-<a href="https://gitee.com/hhmchopin">💻 Gitee</a>
+<!-- Visitor & Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=chopinhhm&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://hits.sh/github/chopinhhm/chopinhhm.svg?color=58A6FF&label=TOTAL+HITS" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=chopinhhm&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" />
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chopinhhm/chopinhhm/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chopinhhm/chopinhhm/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=java,spring,redis,mysql,docker,rabbitmq,maven,git,linux,nginx,kubernetes&theme=dark&perline=5" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,githubactions,docker,nginx,gitlab,jenkins&theme=dark&perline=5" />
+
+</div>
+
+---
+
+## ⚡ Skill Matrix
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chopinhhm&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Languages"/>
+</td>
+<td align="center" width="67%">
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?twoColsLayout=false&titleAlign=start&theme=dark&width=500&gap=8&techs=java,springboot,mysql,redis,springcloud,rabbitmq,docker,kubernetes,linux,git,maven,nginx,sentinel,nacos,milvus,websocket,mybatis" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🧠 Core Competencies
+
+<table align="center">
+<tr>
+<th>🏗️ Microservices Architecture</th>
+<th>💾 Data & Storage</th>
+<th>🤖 AI Engineering</th>
+</tr>
+<tr>
+<td valign="top">
+
+- Spring Cloud Alibaba 全家桶
+- Nacos 注册/配置中心
+- Gateway 网关路由 & 过滤器
+- Sentinel 熔断降级 & 流控
+- Feign 远程调用 & 容错
+- 分布式事务 & 防重设计
+- Docker 容器化 & K8s 编排
+
+</td>
+<td valign="top">
+
+- MySQL 索引优化 / MVCC
+- Redis 三级缓存架构
+- Redis 哨兵集群 & 分布式锁
+- RabbitMQ 死信队列 & 幂等消费
+- Milvus 向量数据库检索
+- 分库分表 & 数据归档策略
+
+</td>
+<td valign="top">
+
+- Spring AI 大模型集成
+- RAG 检索增强生成 (Milvus)
+- SSE 流式对话输出
+- Prompt 工程与调优
+- 多智能体编排协作
+- 医疗 AI 合规 & 敏感词过滤
+- 向量嵌入 & 相似度搜索
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 Open Source
+
+<div align="center">
+
+<a href="https://github.com/chopinhhm/spring-ai-starter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chopinhhm&repo=spring-ai-starter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&description_lines_count=3" width="48%" />
+</a>
+
+</div>
+
+---
+
+## 📂 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/chopinhhm/smart-diagnosis-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chopinhhm&repo=smart-diagnosis-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&description_lines_count=4" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/chopinhhm/multi-agent-clinical">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chopinhhm&repo=multi-agent-clinical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&description_lines_count=4" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/chopinhhm/internet-hospital">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chopinhhm&repo=internet-hospital&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&description_lines_count=4" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/chopinhhm/hospital-registration">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chopinhhm&repo=hospital-registration&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&description_lines_count=4" />
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Analytics Dashboard
+
+<div align="center">
+
+<table>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chopinhhm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true&count_private=false&custom_title=GitHub+Stats" height="180" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=chopinhhm&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&date_format=j%20M%5B%20Y%5D" height="170" />
+</td>
+<td align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=chopinhhm&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8" height="170" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=chopinhhm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏆 Activity Timeline
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chopinhhm&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Let's Connect
+
+<a href="mailto:1716496338@qq.com"><img src="https://img.shields.io/badge/Email-1716496338%40qq.com-FF6B6B?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="http://134.175.176.71:8080"><img src="https://img.shields.io/badge/Website-134.175.176.71:8080-58A6FF?style=flat-square&logo=GoogleChrome&logoColor=white"/></a>
+<a href="https://gitee.com/hhmchopin"><img src="https://img.shields.io/badge/Gitee-hhmchopin-C71D23?style=flat-square&logo=Gitee&logoColor=white"/></a>
+
+<br><br>
+
+<i>"Build smart systems that make a real difference."</i> 💡
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=60&section=footer" />
 
 </div>
