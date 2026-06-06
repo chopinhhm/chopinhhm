@@ -28,41 +28,64 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logoColor=white"/>
 </div>
-
----
-
-## 🧠 技能详情
-
-| 类别 | 技术点 |
-|------|--------|
-| **语言** | Java (核心), 熟悉 JVM 原理、多线程并发 |
-| **框架** | Spring Boot, Spring Cloud Alibaba (Nacos/Sentinel/Gateway), Spring AI |
-| **数据库** | MySQL (索引优化/事务/锁机制), MyBatis-Plus |
-| **缓存** | Redis (数据结构/持久化/缓存穿透&击穿解决方案) |
-| **消息队列** | RabbitMQ (生产消费模型/死信队列/延迟队列) |
-| **工具** | Git, Maven, Docker, Linux 基础 |
 
 ---
 
 ## 📂 项目经验
 
-### 🏥 智慧讯诊平台
-> 基于 Spring Cloud Alibaba 微服务架构的医疗问诊系统
-- **技术栈：** Spring Boot + Nacos + Gateway + Sentinel + MySQL + Redis + RabbitMQ
-- **核心功能：** 用户认证、智能问诊、在线挂号、处方管理
-- **亮点：** 基于 Spring AI 集成大模型实现智能问诊对话
+### 🏥 [smart-diagnosis-platform](https://github.com/chopinhhm/smart-diagnosis-platform) — 智慧问诊服务平台
 
-### 🤖 多智能体临床资料系统
-> 多 Agent 协作的临床医疗资料管理与辅助诊断系统
-- **技术栈：** Spring AI + 多智能体编排 + Spring Boot
-- **核心功能：** 多 Agent 协作分析临床资料、辅助诊断建议
-- **亮点：** 基于多智能体协作架构，实现医疗知识检索与推理
+> 基于 Spring Cloud Alibaba + Spring AI 的智慧医疗问诊平台
 
-### 🌐 互联网医院问诊系统
-> 在线医疗问诊平台，支持患者-医生实时交互
-- **技术栈：** Spring Boot + WebSocket + MySQL + Redis
-- **核心功能：** 实时聊天问诊、图文问诊、处方开具
+`Spring Cloud Alibaba` `Spring AI` `SSE` `Milvus` `Redis` `RabbitMQ`
+
+- Spring AI + SSE 协议构建流式问诊对话系统
+- 双记忆体系（对话记忆 + 业务记忆），解决多轮对话上下文丢失
+- 医疗 RAG 分诊知识库（Milvus + Markdown 智能分块）
+- Redis 三级缓存架构，向量库请求量下降 62%
+- Sentinel 熔断降级 + 医疗敏感词合规过滤
+
+<br>
+
+### 🤖 [multi-agent-clinical](https://github.com/chopinhhm/multi-agent-clinical) — 多智能体临床资料系统
+
+> 基于 Spring AI 多智能体协作的临床资料汇总与文献参谋系统
+
+`Spring AI` `Multi-Agent` `Spring WebFlux` `Milvus` `RAG`
+
+- 多智能体解耦架构（资料汇总 / 文献检索 / 诊断分析）
+- 基于 Spring WebFlux 自研轻量级状态机工作流
+- 医疗私有化 RAG 知识库（Spring AI + Milvus）
+- Markdown 智能分块策略，提升检索准确率
+- HIS / LIS / PACS 三大异构系统集成
+
+<br>
+
+### 🌐 [internet-hospital](https://github.com/chopinhhm/internet-hospital) — 互联网医院问诊系统
+
+> 基于 Spring WebSocket 实现医患实时通讯的线上问诊平台
+
+`Spring WebSocket` `Redis` `MySQL` `RabbitMQ` `JWT`
+
+- 自研 WebSocket 深度业务耦合聊天室（多房间并发）
+- WebSocket 主协议 + HTTP 轮询降级方案
+- 轻量级状态机订单调度流程
+- Redis 二级缓存 + 全量数据持久化
+
+<br>
+
+### 📋 [hospital-registration](https://github.com/chopinhhm/hospital-registration) — 互联网医院挂号系统
+
+> 基于 Spring Cloud Alibaba 微服务架构的分布式高可用挂号系统
+
+`Spring Cloud Alibaba` `Redis Sentinel` `RabbitMQ` `Lua` `Sentinel`
+
+- 分布式原子防重（Redis Lua + 唯一索引 + 状态校验）
+- 全链路流量治理（网关自定义过滤器 + Sentinel）
+- Redis 哨兵集群 + 读写分离高可用缓存架构
+- 消息中间件异步解耦 + 死信队列
 
 ---
 
