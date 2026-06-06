@@ -1,12 +1,8 @@
 <div align="center">
 
-<!-- 3D Particle Header -->
-<img src="https://profile-readme-generator.vercel.app/api/screenshots?uid=chopinhhm&theme=dark&showActions=true&showLineNumbers=true" width="100%" />
-
-<br>
-
+<!-- 头像 -->
 <a href="https://github.com/chopinhhm">
-  <img src="https://github.com/chopinhhm.png" width="120" height="120" style="border-radius:50%; border:3px solid #58A6FF; box-shadow:0 0 20px rgba(88,166,255,0.4);" />
+  <img src="https://avatars.githubusercontent.com/u/174554404?v=4" width="120" height="120" style="border-radius:50%; border:3px solid #58A6FF;" />
 </a>
 
 <h1>
@@ -14,7 +10,7 @@
 </h1>
 
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=C9D1D9&center=true&vCenter=true&width=700&lines=🎓+%E9%87%8D%E5%BA%86%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6+%C2%B7+%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B+%7C+%E2%98%95+Java+Backend+%7C+%E4%BA%91%E5%8E%9F%E7%94%9F+%E5%90%8E%E7%AB%AF+%E5%BC%80%E5%8F%91%E8%80%85;%Building+AI-Powered+Healthcare+Systems+%F0%9F%8F%A5" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=C9D1D9&center=true&vCenter=true&width=700&lines=🎓+%E9%87%8D%E5%BA%86%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6+%C2%B7+%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B+%7C+%E2%98%95+Java+Backend+%7C+%E4%BA%91%E5%8E%9F%E7%94%9F+%E5%90%8E%E7%AB%AF+%E5%BC%80%E5%8F%91%E8%80%85;Building+AI-Powered+Healthcare+Systems+%F0%9F%8F%A5" alt="Subtitle" />
 </h3>
 
 <div>
@@ -26,18 +22,13 @@
 
 <br>
 
-<!-- Visitor & Profile Views -->
+<!-- 访问量 -->
 <img src="https://komarev.com/ghpvc/?username=chopinhhm&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" />
-<img src="https://hits.sh/github/chopinhhm/chopinhhm.svg?color=58A6FF&label=TOTAL+HITS" />
 
 <br><br>
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chopinhhm/chopinhhm/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chopinhhm/chopinhhm/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
+<!-- 贪吃蛇 - 使用稳定的服务 -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
 
@@ -63,11 +54,16 @@
 
 <table width="100%">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="40%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chopinhhm&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Languages"/>
 </td>
-<td align="center" width="67%">
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?twoColsLayout=false&titleAlign=start&theme=dark&width=500&gap=8&techs=java,springboot,mysql,redis,springcloud,rabbitmq,docker,kubernetes,linux,git,maven,nginx,sentinel,nacos,milvus,websocket,mybatis" />
+<td align="center" width="60%">
+
+**Core Technologies:**
+
+`Java` · `Spring Boot` · `Spring Cloud Alibaba` · `Spring AI` · `MyBatis-Plus`  
+`Redis` · `MySQL` · `RabbitMQ` · `Docker` · `Milvus` · `Sentinel` · `Nacos`
+
 </td>
 </tr>
 </table>
@@ -187,22 +183,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=chopinhhm&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8" height="170" />
 </td>
 </tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=chopinhhm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</td>
-</tr>
 </table>
-
-</div>
-
----
-
-## 🏆 Activity Timeline
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chopinhhm&theme=tokyonight&hide_border=true" />
 
 </div>
 
